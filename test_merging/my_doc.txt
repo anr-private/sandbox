@@ -3,5 +3,6 @@ This is second commit. Also from 'master' AMENDED in sandbox1:master.
 This line added in sandbox2:branch2
 This line also added in sandbox2:branch2
 Another line added in sandbox2:branch2
+YET Another line added in sandbox2:branch2
 
 
