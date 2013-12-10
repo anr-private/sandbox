@@ -1,4 +1,4 @@
-This is first commit.
+This is first commit. Amended in sandbox1:master
 This is second commit. Also from 'master'
 
 
