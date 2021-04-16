@@ -3,7 +3,7 @@ sandbox README
 
 sandbox for testing git features
 
-Added some branches
+Added a branch: new_branch.
 
 
 ### end ###
